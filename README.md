@@ -9,15 +9,8 @@ Create a portfolio page for myself that I can use to update over the course of t
 Written by me; Jesse Pomeroy
 
 https://github.com/JessePomeroy/port
-https://jessepomeroy.github.io/port/
-
-
-
-
-
-
-
-
+https://jessepomeroy.github.io/port/      
+![Screenshots](https://github.com/jessepomeroy/port/blob/main/scrot.png)     
 
 Here are the critical requirements necessary to develop a portfolio that satisfies a typical hiring manager’s needs:
 
