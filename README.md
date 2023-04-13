@@ -7,6 +7,7 @@ Create a portfolio page for myself that I can use to update over the course of t
 
 ## Credits
 Written by me; Jesse Pomeroy
+lines 14-29, navbar inspired by code from https://youtu.be/biOMz4puGt8 and tweaked to my needs
 
 https://github.com/JessePomeroy/port
 https://jessepomeroy.github.io/port/      
